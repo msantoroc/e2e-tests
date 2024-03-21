@@ -1,5 +1,5 @@
 ## E2E tests - WIP
 
-[x] [Cypress](https://www.cypress.io/)
+[x] [Cypress](https://www.cypress.io/) -> `git checkout cypress`
 
 [ ] [Playwright](https://playwright.dev/)
